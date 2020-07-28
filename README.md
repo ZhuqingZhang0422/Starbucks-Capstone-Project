@@ -83,3 +83,9 @@ https://medium.com/@zz42/machine-learning-tells-you-whether-a-user-will-response
 5. Conclusion
 
 In this project analysis of the data set is provide, meanwhile, three machine learning model was built to predict whether the costumer would response to a specific promo method. The Naive_Bayes_model have the highest accuracy of nearly 65%.
+
+6. Reference
+Logistic regression (https://realpython.com/logistic-regression-python/)
+Naive Bayes (https://scikit-learn.org/stable/modules/naive_bayes.html)
+SVM (https://scikit-learn.org/stable/modules/svm.html)
+Metrics for evaluation (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
