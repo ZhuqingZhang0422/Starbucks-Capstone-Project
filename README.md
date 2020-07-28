@@ -13,6 +13,9 @@ To give an example, a user could receive a discount offer buy 10 dollars get 2 o
 
 However, there are a few things to watch out for in this data set. Customers do not opt into the offers that they receive; in other words, a user can receive an offer, never actually view the offer, and still complete the offer. For example, a user might receive the "buy 10 dollars get 2 dollars off offer", but the user never opens the offer during the 10 day validity period. The customer spends 15 dollars during those ten days. There will be an offer completion record in the data set; however, the customer was not influenced by the offer because the customer never viewed the offer.
 
+Detailed information can be found on the following blog link :
+https://medium.com/@zz42/machine-learning-tells-you-whether-a-user-will-response-to-a-starbuck-rewards-be13a882e0ca
+
 2. Table of contents 
     1) Import LIbraries
     2) Loading Data
