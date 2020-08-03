@@ -16,6 +16,10 @@ However, there are a few things to watch out for in this data set. Customers do 
 Detailed information can be found on the following blog link :
 https://medium.com/@zz42/machine-learning-tells-you-whether-a-user-will-response-to-a-starbuck-rewards-be13a882e0ca
 
+Data Cleaning 
+
+Merge three data set into a larger one
+
 2. Table of contents 
     1) Import LIbraries
     2) Loading Data
@@ -89,3 +93,5 @@ Logistic regression (https://realpython.com/logistic-regression-python/)
 Naive Bayes (https://scikit-learn.org/stable/modules/naive_bayes.html)
 SVM (https://scikit-learn.org/stable/modules/svm.html)
 Metrics for evaluation (https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
+
+
