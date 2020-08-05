@@ -21,11 +21,6 @@ Data Cleaning
 Merge three data set into a larger one
 
 2. Table of contents 
-    1) Import LIbraries
-    2) Loading Data
-    3) Data Overview
-    4) Data Cleaning
-    5) Data Analysis
         A) Reserch into user age
             i. what is the mean of the user age
             ii. what is the distribution of user age
